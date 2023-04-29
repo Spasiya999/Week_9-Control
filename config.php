@@ -5,7 +5,7 @@ $config = [
     'db_port' => '3306',
     'db_name' => 'posts',
     'db_username' => 'root',
-    'db_password' => 'Sachiya_999@',
+    'db_password' => 'Sachiya999@',
     'site_url' => 'http://localhost:8080'
 ];
 
